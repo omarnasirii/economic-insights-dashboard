@@ -1,0 +1,6 @@
+pandas>=2.1.0
+fredapi>=0.4.0
+SQLAlchemy>=2.0.0
+plotly>=6.0.0
+streamlit>=1.25.0
+python-dotenv>=1.0.0
