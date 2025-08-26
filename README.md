@@ -109,7 +109,7 @@ Economic-Insights-Dashboard/
 
 ## Screenshot
 
-*(Optional: add a screenshot of the dashboard here)*
+<img width="1263" height="1306" alt="Screenshot 2025-08-26 142118" src="https://github.com/user-attachments/assets/8fb261eb-3f41-452b-8f89-7e4b2f3e4989" />
 
 ---
 
